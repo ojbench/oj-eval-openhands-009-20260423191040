@@ -1,0 +1,5 @@
+# Test executables and outputs
+data/*/test
+data/*/output.txt
+*.o
+*.out
